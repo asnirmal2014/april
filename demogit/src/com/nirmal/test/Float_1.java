@@ -5,5 +5,8 @@ public class Float_1 {
 		float f = 3.78541f;
 		System.out.println(f);
 		System.out.println(f);
+		System.out.println(f);
+		System.out.println(f);
+		System.out.println(f);
 	}
 }
