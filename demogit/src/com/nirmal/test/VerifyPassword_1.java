@@ -85,5 +85,7 @@ public class VerifyPassword_1
 	{
 		VerifyPassword_1 obj = new VerifyPassword_1();
 		System.out.println(obj);
+		System.out.println(obj);
+		
 	}
 }
